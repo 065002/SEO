@@ -1,0 +1,4 @@
+%%writefile requirements.txt
+streamlit
+requests
+beautifulsoup4
